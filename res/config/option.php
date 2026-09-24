@@ -7,8 +7,8 @@ interface ThanhDieuConfigInterface {
     public function CommonMethod();
 }
 class ThanhDieuHeader implements ThanhDieuConfigInterface {
-    public $title = "Vương Thanh Diệu | Resources V5";
-    public $description = "Hi my name is ThanhDieu / A freelance / web developer / vexer";
+    public $title = "Nguyễn Quang Minh | Resources V5";
+    public $description = "Hi my name is Quang Minh / A freelance / web developer / vexer";
     public $keywords = "quangminh,web quangminh,nguyen quang minh,minhxu,quang minh,minhxudz,minhxu home,profile quangminh";
     public $favicon = "./res/v5/img/logo.jpg";
     public $namesite = "QUANGMINH | HOME";
