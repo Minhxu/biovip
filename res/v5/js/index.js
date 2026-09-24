@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////////
 /**
- * @package thanhdieuv5 (tester)
- * @author  Vương Thanh Diệu <www.facebok.com/wusthanhdieu>
+ * @package minhxudz
+ * @author  Nguyễn Quang Minh <www.facebok.com/minhffmax999>
  * @description Not every source code, when upgraded to a new version, needs to resemble the old version or be necessarily more aesthetically pleasing than previous versions, it simply marks the version of the new source code
  */
 //////////////////////////////////////////////////////////////////
@@ -867,5 +867,5 @@ messages.forEach(msg => {
     }, img.onload = function() {
         startSakura()
     };
-    // End ThanhDieuV5
+    // End Minhxu
 });
